@@ -51,7 +51,7 @@ namespace Regex_UC_9_Valid_Emails
             }
             else
             {
-                Console.WriteLine("EMail is Not Valid");
+                Console.WriteLine("EMail is Not Valid ");
             }
 
             if (Regex.Match(email5, "^[a-z]{3}[.][0-9]{3}[@][a-z]{3}[.][a-z]{3}.[a-z]{2}$").Success)
