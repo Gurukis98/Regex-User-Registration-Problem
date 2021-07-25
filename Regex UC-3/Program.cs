@@ -16,7 +16,7 @@ namespace Regex_UC_3
             }
             else
             {
-                Console.WriteLine("EMail is Not Valid");
+                Console.WriteLine("EMail is Not Valid ");
             }
         }
     }
