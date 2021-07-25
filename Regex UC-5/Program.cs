@@ -15,7 +15,7 @@ namespace Regex_UC_5
             }
             else
             {
-                Console.WriteLine("Password is Not Valid");
+                Console.WriteLine("Password is Not Valid ");
             }
         }
     }
