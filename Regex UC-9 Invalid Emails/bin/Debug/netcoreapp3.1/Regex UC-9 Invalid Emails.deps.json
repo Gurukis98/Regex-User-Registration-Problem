@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Regex UC-9 Invalid Emails/1.0.0": {
+        "runtime": {
+          "Regex UC-9 Invalid Emails.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Regex UC-9 Invalid Emails/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

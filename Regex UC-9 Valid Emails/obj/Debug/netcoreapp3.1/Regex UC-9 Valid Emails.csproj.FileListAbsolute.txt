@@ -1,0 +1,26 @@
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9\bin\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.exe
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9\bin\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.deps.json
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9\bin\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.runtimeconfig.json
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9\bin\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.runtimeconfig.dev.json
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9\bin\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.dll
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9\bin\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.pdb
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.csproj.AssemblyReference.cache
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.AssemblyInfoInputs.cache
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.AssemblyInfo.cs
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.dll
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.pdb
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.genruntimeconfig.cache
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9 Valid Emails\bin\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.exe
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9 Valid Emails\bin\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.deps.json
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9 Valid Emails\bin\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.runtimeconfig.json
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9 Valid Emails\bin\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.runtimeconfig.dev.json
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9 Valid Emails\bin\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.dll
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9 Valid Emails\bin\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.pdb
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9 Valid Emails\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.csproj.AssemblyReference.cache
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9 Valid Emails\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.AssemblyInfoInputs.cache
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9 Valid Emails\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.AssemblyInfo.cs
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9 Valid Emails\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9 Valid Emails\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.dll
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9 Valid Emails\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.pdb
+C:\Users\kisho\Regex User Registration Problem\Regex UC-9 Valid Emails\obj\Debug\netcoreapp3.1\Regex UC-9 Valid Emails.genruntimeconfig.cache
