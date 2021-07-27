@@ -8,7 +8,7 @@ namespace Regex_UC_1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Enter Your Lastname Starts with Capital and it Have Minimum 3 Character");
+            Console.WriteLine("Enter Your Firstname Starts with Capital and it Have Minimum 3 Character");
             string firstName = Console.ReadLine();
             if (Regex.Match(firstName, "^[A-za-z]{3, }$").Success)
             {
