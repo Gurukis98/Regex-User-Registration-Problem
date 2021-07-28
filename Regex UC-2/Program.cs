@@ -9,7 +9,7 @@ namespace Regex_UC_2
         {
             Console.WriteLine("Enter Your Lastname Starts with Capital and it Have Minimum 3 Character");
             string lastName = Console.ReadLine();
-            if (Regex.Match(lastName, "^[A-Za-z]{3, }$").Success)
+            if (Regex.Match(lastName, "^[A-Z]{1}[A-Za-z]{2,}$").Success)
             {
                 Console.WriteLine("Lastname is Valid");
             }
