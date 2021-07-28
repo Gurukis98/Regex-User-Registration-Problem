@@ -9,7 +9,7 @@ namespace Regex_UC_6
         {
             Console.WriteLine("Enter Your Password Should Have Minimum 8 Characters and 1 Uppercase");
             string rule2 = Console.ReadLine();
-            if (Regex.Match(rule2, "^[A-Za-z]{8,}$").Success)
+            if (Regex.Match(rule2, "^[A-Z]{1}[A-Za-z]{7,}$").Success)
             {
                 Console.WriteLine("Password is Valid");
             }
